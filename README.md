@@ -33,14 +33,17 @@ Below are screenshots showing the appearance of the application:
 ### Main Window
 
 ![Main Window](images/okienkoGlowne.png)
+
 *Main window with control buttons and application data.*
 
 ### Maze
 
 ![Maze](images/labirynt.png)
+
 *Ball Maze at advanced difficulty level.*
 
 ### Graphs
 
 ![Graphs](images/wykresy.png)
+
 *Graph with data in three axes.*
